@@ -29,30 +29,5 @@
     },
     "my-pool-ids": {
         "0": "e20bd557014af3f4215c66ca00084d07bb0a5e39b96d04a6346b953a",
-    },
-    "when-satured-then-recommend": {
-        "0": ""
-    },
-    "telegram-admin-handle": {
-        "0": ""
-    },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "relay 1 eu",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "1": {
-                "name": "relay 2 usa",
-                "type": "relay",
-                "key": "example_get_own_on_adapools.org/connect"
-            },
-            "2": {
-                "name": "block producer home",
-                "type": "bp",
-                "key": "example_get_own_on_adapools.org/connect"
-            }
-        }
     }
 }
