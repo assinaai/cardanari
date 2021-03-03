@@ -29,5 +29,19 @@
     },
     "my-pool-ids": {
         "0": "e20bd557014af3f4215c66ca00084d07bb0a5e39b96d04a6346b953a"
+    },
+    "adapools_ext": {
+        "prometheus": {
+            "0": {
+                "name": "Cardanari-Father-Relay1",
+                "type": "relay",
+                "key": "411fcf96587a5418cc50a8c373397c15"
+            },
+            "1": {
+                "name": "Cardanari-Father-BlockProducer",
+                "type": "bp",
+                "key": "52ff943b14e5da98b58d1a918518e94a"
+            }
+        }    
     }
 }
